@@ -8,6 +8,9 @@ public class Controller {
 
     @GetMapping("/egal")
     public String egal(){
+
         return "Engine und Simon's Spielfeld";
+
+       
     }
 }
