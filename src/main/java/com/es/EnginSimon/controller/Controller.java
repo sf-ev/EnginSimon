@@ -10,7 +10,5 @@ public class Controller {
     public String egal(){
 
         return "Engine und Simon's Spielfeld";
-
-       
     }
 }
